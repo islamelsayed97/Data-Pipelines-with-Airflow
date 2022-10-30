@@ -1,5 +1,6 @@
-# Project: Data Pipelines with Apache Airflow
-
+<p align="center">
+ <h1 align="center">Data Pipelines with Apache Airflow</h1>
+</p>
 
 <img align="center" src="images/airflowlogo.png"/>
 
