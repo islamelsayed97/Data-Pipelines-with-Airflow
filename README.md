@@ -1,8 +1,8 @@
 # Project: Data Pipelines with Apache Airflow
 
-
+<div align="center"
 ![airflowlogo!](./images/airflowlogo.png)
-
+</div>
 
 ## Introduction
 
