@@ -2,7 +2,7 @@
  <h1 align="center">Data Pipelines with Apache Airflow</h1>
 </p>
 <div align="center" >
-![airflow](images/airflowlogo.png#center)
+ <img src="images/airflowlogo.png" />
 </div>
 
 ## Introduction
